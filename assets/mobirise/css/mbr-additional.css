@@ -483,3 +483,14 @@ h6,
 #header1-7 .mbr-section-lead B {
   color: #060606;
 }
+#content5-i .mbr-section-title,
+#content5-i p {
+  color: #fff;
+}
+#contacts1-f P {
+  text-align: left;
+}
+#social-buttons4-j .mbr-section-title,
+#social-buttons4-j .btn-social {
+  color: #fff;
+}
